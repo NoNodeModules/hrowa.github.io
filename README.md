@@ -1,4 +1,3 @@
 # portfolio
 
-Portfolio app
-React, styled components, framer motion
+Portfolio app created with react, styled components, framer motion
